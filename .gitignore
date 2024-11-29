@@ -4,3 +4,4 @@ __pycache__*/
 py3d/images/
 py3d/effects/
 py3d/examples/
+video/*.mp4
